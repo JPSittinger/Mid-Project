@@ -15,6 +15,7 @@ https://github.com/COrtsJosep/TFG-2021
 Data for the air pollution and noise pollution for Barcelona where downloaded from Open Data Barcelona:
 https://opendata-ajuntament.barcelona.cat/en
 
-- Tableau visualizations: 
+Tableau visualizations: 
 https://public.tableau.com/app/profile/philipp8712/viz/Barcelonarentprices/Sheet12
+
 https://public.tableau.com/app/profile/philipp8712/viz/BarcelonaNoisePollution/Sheet1
